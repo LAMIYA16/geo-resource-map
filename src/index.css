@@ -1,0 +1,19 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  margin: 0;
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.map-container {
+  height: calc(100vh - 70px); 
+  width: 100%;
+}
